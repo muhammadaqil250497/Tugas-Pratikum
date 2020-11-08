@@ -19,7 +19,7 @@ Jika sudah maka tinggal kita jalankan Run/Play. Maka hasilnya akan seperti ini
 
 Dan berikut adalah FLOWCHART dari program menentukan 3 buah bilangan besar.
 
-
+![Gambar](pic-pemograman/Screenshot4.png)
 
 Selesai.
 
@@ -80,7 +80,7 @@ Berikut Soal tugasnya
 
 Dan ini adalah FLOWCHART nya.
 
-
+![Gambar](pic-pemograman/Screenshot23.png)
 
 Jika sudah memahaminya, kita lanjut dengan codingan-nya.
 
@@ -132,7 +132,7 @@ Sekian pembahan pada tugas kali ini, Terim Kasih.
 
 Ini adalah FLOWCHART pada tugas kali ini .
 
-
+![Gambar](pic-pemograman/Screenshot22.png)
 
 Jika sudah paham , kita lanjut dengan codingan.
 
@@ -162,3 +162,28 @@ cetak total
 
 Sekian dari saya.
 
+# TUGAS Modul 7 | Latihan 1
+
+Soal.
+
+![Gambar](pic-pemograman/Screenshot14.png)
+
+Tugas kali ini kita akan membuat seperti diatas. Langsung saja ke codingan-nya.
+
+
+Jika sudah kita lanjut dengan RUN .
+
+
+# TUGAS Modul 7 | Latihan 2
+
+Soal pada tugas kali ini adalah
+
+![Gambar](pic-pemograman/Screenshot18.png)
+
+Langsung saja kita Coding.
+
+![Gambar](pic-pemograman/Screenshot19.png)
+
+Jika sudah kita cek dengan RUN. Usahakan harus sesuai dengan hasil dari Soal.
+
+![Gambar](pic-pemograman/Screenshot20.png)
