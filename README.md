@@ -19,7 +19,7 @@ Jika sudah maka tinggal kita jalankan Run/Play. Maka hasilnya akan seperti ini
 
 Dan berikut adalah FLOWCHART dari program menentukan 3 buah bilangan besar.
 
-![Gambar](pic-pemograman/Screenshot4.png)
+
 
 Selesai.
 
@@ -170,8 +170,17 @@ Soal.
 
 Tugas kali ini kita akan membuat seperti diatas. Langsung saja ke codingan-nya.
 
+![Gambar](pic-pemograman/Screenshot15.png)
 
 Jika sudah kita lanjut dengan RUN .
+
+![Gambar](pic-pemograman/Screenshot17.png)
+
+Dan berhasil. Lanjut dengan pembahasan.
+
+Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan.
+
+Dan karena pada syntax tersebut kamu membutuhkan baris dan kolom maka sebelum memasukan syntax diatas kamu perlu menambahkan keterangan baris dan kolom sesuai yang kalian butuhkan seperti ini.
 
 
 # TUGAS Modul 7 | Latihan 2
@@ -187,3 +196,16 @@ Langsung saja kita Coding.
 Jika sudah kita cek dengan RUN. Usahakan harus sesuai dengan hasil dari Soal.
 
 ![Gambar](pic-pemograman/Screenshot20.png)
+
+Berikut Penjelas pada Latihan 2 kali ini .
+
+Syntax dibawah ini digunakan untuk mencari nilai random
+
+import random
+Sementara untuk menentukan jumlah input yang diinginkan maka perlu memasukan
+
+jum = int( input("Masukan nilai n : "))
+dan untuk menampilkan urutan data sesuai jumlah inputan dengan hasil di bawah 0.5 perlu memasukan
+
+angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
