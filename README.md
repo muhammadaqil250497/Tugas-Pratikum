@@ -19,7 +19,7 @@ Jika sudah maka tinggal kita jalankan Run/Play. Maka hasilnya akan seperti ini
 
 Dan berikut adalah FLOWCHART dari program menentukan 3 buah bilangan besar.
 
-
+![Gambar](pic-pemograman/Screenshot4.png)
 
 Selesai.
 
@@ -202,10 +202,12 @@ Berikut Penjelas pada Latihan 2 kali ini .
 Syntax dibawah ini digunakan untuk mencari nilai random
 
 import random
+
 Sementara untuk menentukan jumlah input yang diinginkan maka perlu memasukan
 
 jum = int( input("Masukan nilai n : "))
-dan untuk menampilkan urutan data sesuai jumlah inputan dengan hasil di bawah 0.5 perlu memasukan
 
-angkaDec = random.uniform(0, 0.5)
+dan untuk menampilkan urutan data sesuai jumlah inputan dengan hasil di bawah 0.5 perlu memasukanangka
+
+Dec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
